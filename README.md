@@ -1,2 +1,3 @@
-# home
-website first page
+# Rock Against Ocean
+
+[Home](https://rockagainstocean.github.io/home/)
