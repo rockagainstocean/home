@@ -17,7 +17,7 @@ body {
   font-style: bold;
   height: 100vh;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
 }
 
 .container-button {
@@ -26,7 +26,8 @@ body {
   height: 100%;
   flex-grow: 0.5;
   text-align: center;
-  padding-top: 25%;
+  padding-top: 10%;
+  padding-bottom: 10%;
   text-decoration: none;
 }
 
